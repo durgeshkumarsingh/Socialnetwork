@@ -39,7 +39,7 @@ if(isset($_SESSION['user_id']))
 				<div>
 					<div>
 						<p id='hi'><img src='images/1372832592.jpg' width='100'height='100'></p><h4>DURGESH KUMAR SINGH </h4>dksingh00089@gmail.com
-						<br><a href='https://www.facebook.com/durgeshkumar.singh2?ref=tn_tnmn'><img src='images/flo.jpg'width='30'height='30'></a>
+						<br><a href='https://www.facebook.com/im.durgeshkumarsingh'><img src='images/flo.jpg'width='30'height='30'></a>
 
 					</div>
 				</div>
