@@ -40,21 +40,7 @@ if(isset($_SESSION['user_id']))
 					<div>
 						<p id='hi'><img src='images/1372832592.jpg' width='100'height='100'></p><h4>DURGESH KUMAR SINGH </h4>dksingh00089@gmail.com
 						<br><a href='https://www.facebook.com/durgeshkumar.singh2?ref=tn_tnmn'><img src='images/flo.jpg'width='30'height='30'></a>
-						<p class='name'><img src='images/qd.jpg' width='100'height='100'></p><h4 class='name1'>ABDUL QADIR</h4><p class='name1'>akd@gmail.com</p>
-						<p class='name1'><a href=''><img src='images/flo.jpg' width='30' height='30'></a></p>
-					</div>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					<br>
-					
-					<div>
-						<p id='hi1'><img src='images/sb.jpg' width='100'height='100'></p><h4>KUMAR SHIVAM</h4>kumar.shivam433@gmail.com
-						<br><a href='https://www.facebook.com/durgeshkumar.singh2?ref=tn_tnmn'><img src='images/flo.jpg'width='30'height='30'></a>
-						<p class='name'><img src='images/vk.jpg' width='100'height='100'></p><h4 class='name1'>VIKASH KUMAR</h4><p class='name1'>kumar_vikash555@yahoo.com</p>
-						<p class='name1'><a href=''><img src='images/flo.jpg' width='30' height='30'></a></p>
+
 					</div>
 				</div>
 			</div><!--end right-signup-->
